@@ -1,7 +1,5 @@
 # Introduction à la CI/CD
 
-Ce projet est vraiment vraiment super.
-
 Ce dépôt Git a pour objectif de servir d'introduction à la CI/CD (Intégration Continue / Déploiement Continue).
 
 Il est composé d'une petite application javascript qui affiche un compteur avec la possibilité de l'incrémenter et le décrémenter.
